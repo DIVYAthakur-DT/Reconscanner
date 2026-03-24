@@ -1,6 +1,6 @@
 # Net-work Reconnaissance Tool
 
-A Python-based network scanning tool that automates various **Nmap scans** for network reconnaissance and security analysis.
+A Python-based network scanning tool that automates various **Nmap scans** for net-work reconnaissance and security analysis.
 This project demonstrates fundamental cybersecurity concepts such as port scanning, service detection, OS fingerprinting, and vulnerability discovery.
 
 ---
@@ -52,7 +52,7 @@ Download from: https://nmap.org/download.html
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/DIVYAthakur-DT/network-reconnaissance-tool.git
+git clone https://github.com/DIVYAthakur-DT/net-work-reconnaissance-tool.git
 cd network-reconnaissance-tool
 ```
 
@@ -126,7 +126,7 @@ State: up
 ## Project Structure
 
 ```
-network-reconnaissance-tool
+net-work-reconnaissance-tool
 │
 ├── Networkscanner.py
 ├── README.md
