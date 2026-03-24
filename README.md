@@ -1,4 +1,4 @@
-# Network Reconnaissance Tool
+# Net-work Reconnaissance Tool
 
 A Python-based network scanning tool that automates various **Nmap scans** for network reconnaissance and security analysis.
 This project demonstrates fundamental cybersecurity concepts such as port scanning, service detection, OS fingerprinting, and vulnerability discovery.
